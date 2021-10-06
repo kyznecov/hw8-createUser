@@ -13,3 +13,5 @@ function createUser(firstName, lastName, age) {
 
 let player = createUser( "", "ivanov", 33);
 
+console.log(player);
+
